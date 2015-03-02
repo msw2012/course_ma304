@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA304: Topics in Applied Mathematics"
+course_description: "An introduction to mathematical topics not included in the standard coursework, delivered by topics and projects chosen by the student."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Data Compression** <span id="2"></span> 
 *A natural continuation of DDR studied in Unit 1 is the subject of data
 compression.  To prepare for this investigation, we will introduce the

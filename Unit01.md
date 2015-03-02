@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA304: Topics in Applied Mathematics"
+course_description: "An introduction to mathematical topics not included in the standard coursework, delivered by topics and projects chosen by the student."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Linear Analysis** <span id="1"></span> 
 *In Unit 1, the theory of linear algebra studied in the Saylor
 Foundation’s MA211 and MA212 are extended to linear analysis in that

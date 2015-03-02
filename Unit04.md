@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA304: Topics in Applied Mathematics"
+course_description: "An introduction to mathematical topics not included in the standard coursework, delivered by topics and projects chosen by the student."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Time-Frequency Analysis** <span id="4"></span> 
 *The Fourier transform (FT) introduced in this unit is the analogue of
 the sequence of Fourier coefficients of the Fourier series discussed in

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA304: Topics in Applied Mathematics"
+course_description: "An introduction to mathematical topics not included in the standard coursework, delivered by topics and projects chosen by the student."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Fourier Methods** <span id="3"></span> 
 *The matrix transformation DFT introduced in Unit 2 is a discrete
 version of the Fourier series to be studied in this unit.  The theory of

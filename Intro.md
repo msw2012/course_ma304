@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA304: Topics in Applied Mathematics"
+course_description: "An introduction to mathematical topics not included in the standard coursework, delivered by topics and projects chosen by the student."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "MA304: Topics in Applied Mathematics"
 ----------------------------------------------------------
 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA304: Topics in Applied Mathematics"
+course_description: "An introduction to mathematical topics not included in the standard coursework, delivered by topics and projects chosen by the student."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: PDE Methods** <span id="5"></span> 
 *When the variance of the Gaussian convolution filter is replaced by ct,
 where c is a fixed positive constant and t is used as the time

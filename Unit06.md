@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA304: Topics in Applied Mathematics"
+course_description: "An introduction to mathematical topics not included in the standard coursework, delivered by topics and projects chosen by the student."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Wavelet Methods** <span id="6"></span> 
 *This final unit is concerned with the study of multi-scale data
 analysis.  This unit will introduce you to the notions of
